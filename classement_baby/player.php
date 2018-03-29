@@ -39,11 +39,7 @@ if (isset($_POST["pseudo"])){
     <tr align="center">
       <td colspan="2"><input type="submit" value="insérer"></td>
     </tr>
-    <form name="insertion" action="partie.php" method="POST">
-        <tr align="center">
-          <td colspan="2"><input type="submit" value="insérer"></td>
-        </tr>
-    </form>
+    
   </table>
 </form>
 <form name="insertion" action="partie.php" method="POST">
